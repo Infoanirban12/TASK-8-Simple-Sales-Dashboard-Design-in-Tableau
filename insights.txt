@@ -1,0 +1,11 @@
+Insights 
+Here are some insights after completing the visuals:
+
+1) The West region consistently had the highest sales across most months.
+
+2) The technology category contributed the largest share of total sales.
+
+3) Sales peaked in November and December, suggesting strong performance in the holiday season.
+
+4) The central region shows moderate performance but higher profit margins than the South.
+
