@@ -18,6 +18,9 @@ To build an interactive Tableau dashboard that visually represents sales perform
 - **Filter:** Interactive slicer for Region
 - **Color Encoding:** Highlights top-performing regions/categories
 
+- ![sales_dashboard](https://github.com/user-attachments/assets/158636cf-b317-4305-b082-fc1b46e471df)
+
+
 ---
 
 ## 📌 Insights
