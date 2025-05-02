@@ -36,7 +36,8 @@ To build an interactive Tableau dashboard that visually represents sales perform
 - `sales_dashboard.png` – Tableau dashboard export
 - `insights.txt` – Summary of insights
 - `README.md` – This file
-
+- `Sales Dashboard.twbx` – Tableau Dashboard File
+  
 ---
 
 ## 📌 Tools Used
